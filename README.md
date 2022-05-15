@@ -31,4 +31,3 @@ repo with code abstraction **(always try to keep it as commented as possible)**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=art-santos&show_icons=true&locale=en" alt="art-santos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=art-santos&" alt="art-santos" /></p>
