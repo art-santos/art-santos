@@ -11,8 +11,8 @@
 ### Last Readings
 **Rust By Progrmming Examples**
 **link:** https://www.amazon.com/dp/B075V9B2JH/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-repo with code abstraction **(always try to keep it as commented as possible)**
-**repo:** https://github.com/art-santos/rust_by_examples
+
+repo with abstraction **(always try to keep it as commented as possible)**:https://github.com/art-santos/rust_by_examples
 
 ###
 <!-- BLOG-POST-LIST:START -->
