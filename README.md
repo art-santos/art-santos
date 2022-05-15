@@ -29,5 +29,4 @@ repo with code abstraction **(always try to keep it as commented as possible)**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=art-santos&show_icons=true&locale=en&layout=compact" alt="art-santos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=art-santos&show_icons=true&locale=en" alt="art-santos" /></p>
 
