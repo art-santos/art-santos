@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=art-santos&label=Profile%20views&color=0e75b6&style=flat" alt="art-santos" /> </p>
 
+- I’m a **Node / React / Next** developer 
+
+- I've worked as a **CTO / FullStack developer / TechLead**
 
 - 🌱 I’m currently learning **Rust / Substrate / Blockchain / Solidity**
 
