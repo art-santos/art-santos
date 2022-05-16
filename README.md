@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Arthur Santos</h1>
+<h2 align="left">Hi There</h2>
 <h3 align="left">A passionate FullStack Blockchain Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=art-santos&label=Profile%20views&color=0e75b6&style=flat" alt="art-santos" /> </p>
