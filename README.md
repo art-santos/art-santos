@@ -17,7 +17,7 @@
 
 repo with abstraction **(always try to keep it as commented as possible)**: https://github.com/art-santos/rust_by_examples
 
-###
+###Post
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
