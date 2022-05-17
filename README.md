@@ -17,12 +17,11 @@
 
 repo with abstraction **(always try to keep it as commented as possible)**: https://github.com/art-santos/rust_by_examples
 
-### Post
+### Posts
 <!-- BLOG-POST-LIST:START -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arthursantos_/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arthursantos_/0" alt="Recent Article 0"> 
-
-
-
+<a target="_blank" href="https://medium.com/@arthursantos_/how-to-create-your-first-project-in-rust-de2a73e87115">
+Run your first rust project
+</a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
