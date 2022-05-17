@@ -19,7 +19,8 @@ repo with abstraction **(always try to keep it as commented as possible)**: http
 
 ### Post
 <!-- BLOG-POST-LIST:START -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/https://github-readme-medium-recent-article.vercel.app/medium/@arthursantos_/de2a73e87115"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arthursantos_/de2a73e87115" alt="Run Your first Rust Project"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+
 
 
 <!-- BLOG-POST-LIST:END -->
