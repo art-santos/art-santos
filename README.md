@@ -19,7 +19,9 @@ repo with abstraction **(always try to keep it as commented as possible)**: http
 
 ### Post
 <!-- BLOG-POST-LIST:START -->
-https://github-readme-medium-recent-article.vercel.app/medium/@arthursantos_/de2a73e87115
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/https://github-readme-medium-recent-article.vercel.app/medium/@arthursantos_/de2a73e87115"><img src="https://github-readme-medium-recent-article.vercel.app/medium/https://github-readme-medium-recent-article.vercel.app/medium/@arthursantos_/de2a73e87115" alt="Recent Article 0"> 
+
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
