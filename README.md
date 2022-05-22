@@ -35,4 +35,5 @@ Run your first rust project
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=art-santos&show_icons=true&locale=en&layout=compact" alt="art-santos" /></p>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=artsantos&bg_color=080441&color=fd1cdf&line=ee1cfd&point=33eb98&area_color=ee1cfd&area=true&hide_border=true" alt="Arthur's Contribution Graph" /><img src="https://github.com/artsantos/artsantos/blob/output/snake-anime.svg" alt="Github Snake Animation"></p>
 
