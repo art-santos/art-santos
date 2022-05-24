@@ -38,6 +38,5 @@ repo with abstraction **(always try to keep it as commented as possible)**: http
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=art-santos&show_icons=true&locale=en&layout=compact" alt="art-santos" /></p>
 <br></br>
 <div align="center" text-align="center" border-width="1px">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=art-santos&bg_color=FFF&color=0a66c2&line=fffff&point=0a66c2&area_color=0a66c2&area=true&hide_border=true" alt="My Contributions Graph" />
   <img align="center" src="https://github.com/art-santos/art-santos/blob/output/github-contribution-grid-snake.svg" alt="Github Snake Animation">
  </div>
