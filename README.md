@@ -13,9 +13,9 @@
 
 ### Last Readings / Courses
 **Rust and WebAssembly - Pratical Guide With Typescript**
-**link:** [https://www.amazon.com/dp/B075V9B2JH/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1](https://www.udemy.com/course/rust-webassembly-with-js-ts-the-practical-guide/)
+**link:** [https://www.udemy.com/course/rust-webassembly-with-js-ts-the-practical-guide/](https://www.udemy.com/course/rust-webassembly-with-js-ts-the-practical-guide/)
 
-repo with abstraction **(always try to keep it as commented as possible)**: https://github.com/art-santos/rust_by_examples
+repo with abstraction **(always try to keep it as commented as possible)**: [https://github.com/art-santos/rust_by_examples](https://github.com/art-santos/rust-and-webassembly-with-ts)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
