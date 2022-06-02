@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Rust / Substrate / Solidity**
 
-- 📫 How to reach me **arthursantosdeveloper@gmail.com**
+- 📫 How to reach me **arthursantosdeveloper@gmail.com** or [my website -> arthursantos.codes](https://arthursantos.codes)
+
 
 ### Last Readings / Courses
 **Rust and WebAssembly - Pratical Guide With Typescript**
