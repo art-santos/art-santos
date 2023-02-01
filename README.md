@@ -7,7 +7,7 @@
 
 - I've worked as a **CTO / FullStack developer **
 
-- 🌱 I’m currently learning **Rust / Substrate / Solidity**
+- 🌱 I’m currently learning **Rust / Go / Python / AI / Solidity**
 
 - 📫 How to reach me **arthursantosdeveloper@gmail.com** or [my website -> arthursantos.codes](https://arthursantos.codes)
 
