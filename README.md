@@ -5,7 +5,7 @@
 
 - I’m a **Node / React / Next / WEB3** developer 
 
-- I've worked as a **CTO / FullStack developer / TechLead**
+- I've worked as a **CTO / FullStack developer **
 
 - 🌱 I’m currently learning **Rust / Substrate / Solidity**
 
