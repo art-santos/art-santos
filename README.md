@@ -1,13 +1,13 @@
 <h2 align="left">Hi There</h2>
-<h3 align="left">A passionate FullStack Blockchain Developer</h3>
+<h3 align="left">Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=art-santos&label=Profile%20views&color=0e75b6&style=flat" alt="art-santos" /> </p>
 
-- I’m a **Node / React / Next / WEB3** developer 
+- I’m a **Node / React / Go** developer 
 
-- I've worked as a **CTO / FullStack developer **
+- I've worked as a ** FullStack developer **
 
-- 🌱 I’m currently learning **Rust / Go / Python / AI / Solidity**
+- 🌱 I’m currently learning ** Go / Gleam**
 
 - 📫 How to reach me **arthursantosdeveloper@gmail.com** or [my website -> arthursantos.codes](https://arthursantos.codes)
 
