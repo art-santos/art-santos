@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=art-santos&label=Profile%20views&color=0e75b6&style=flat" alt="art-santos" /> </p>
 
-- I’m a **Node / React / Go** developer 
+- I’m a **Node / React / Go /Python** developer 
 
 - I've worked as a ** FullStack developer **
 
-- 🌱 I’m currently learning ** Go / Gleam**
+- 🌱 I’m currently learning ** Go / Python**
 
 - 📫 How to reach me **arthursantosdeveloper@gmail.com** or [my website -> arthursantos.codes](https://arthursantos.codes)
 
