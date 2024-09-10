@@ -5,18 +5,11 @@
 
 - I’m a **TS/ Python / Rust** developer 
 
-- I've worked as a ** FullStack developer **
+- I've worked as a **FullStack developer**
 
-- 🌱 I’m currently learning ** Go / Python / Rust**
+- 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **arthursantosdeveloper@gmail.com** or [my website -> arthursantos.codes](https://arthursantos.codes)
-
-
-### Last Readings / Courses
-**Rust and WebAssembly - Pratical Guide With Typescript**
-**link:** [https://www.udemy.com/course/rust-webassembly-with-js-ts-the-practical-guide/](https://www.udemy.com/course/rust-webassembly-with-js-ts-the-practical-guide/)
-
-repo with abstraction **(always try to keep it as commented as possible)**: [https://github.com/art-santos/rust_by_examples](https://github.com/art-santos/rust-and-webassembly-with-ts)
+- 📫 How to reach me **arthur@zipfy.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
