@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=art-santos&label=Profile%20views&color=0e75b6&style=flat" alt="art-santos" /> </p>
 
-- I’m a **TS/ Python / Rust** developer 
-
-- I've worked as a **FullStack developer**
-
-- 🌱 I’m currently learning **Python**
-
 - 📫 How to reach me **arthur@zipfy.io**
 
 <h3 align="left">Connect with me:</h3>
