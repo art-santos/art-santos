@@ -25,6 +25,3 @@
 <br></br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=art-santos&show_icons=true&locale=en&layout=compact" alt="art-santos" /></p>
 <br></br>
-<div align="center" text-align="center" border-width="1px">
-  <img align="center" src="https://github.com/art-santos/art-santos/blob/output/github-contribution-grid-snake.svg" alt="Github Snake Animation">
- </div>
